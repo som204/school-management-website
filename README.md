@@ -1,2 +1,1 @@
-# school-management-website
-A school management website built with Next.js
+# school-management-website\nThis is a simple school management website from.
